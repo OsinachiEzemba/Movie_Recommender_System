@@ -24,9 +24,9 @@ A streaming platform is struggling with customer retention because it lacks a re
   
 # Final Output:
 A demonstration of the application showcasing the successfully implemented movie recommender system, providing users with personalized recommendations based on their viewing history and preferences.
-# Demo Video
-[Link to Demo Video](https://drive.google.com/uc?export=download&id=11l6CZqt8T8j_ScKMjfqpG63xZY2s82n6)
 
+# Demo Video
+[![Demo Video](https://img.youtube.com/vi/7nEwUBTj5Qs/0.jpg)](https://youtu.be/7nEwUBTj5Qs)
 
 
 
