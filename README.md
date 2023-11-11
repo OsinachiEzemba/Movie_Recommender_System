@@ -28,5 +28,11 @@ A demonstration of the application showcasing the successfully implemented movie
 # Demo Video
 [![Demo Video](https://img.youtube.com/vi/7nEwUBTj5Qs/0.jpg)](https://youtu.be/7nEwUBTj5Qs)
 
+# Acknowledgements
+I would like to thank my team members for their participation and contributions:
+- Ayushmaan Maharaj (Team Lead)
+- Karabo Lamola (Technical Lead)
+
+
 
 
